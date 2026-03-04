@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Engineering<br>👯 I’m looking to collaborate on data-related projects and real-world data solutions<br>🤝 I’m looking for help with advanced data engineering tools and industry best practices<br>🌱 I’m currently learning ETL pipelines, data modeling, and modern data technologies<br>💬 Ask me about Data Engineering, SQL, Python, and Software Engineering concepts<br>⚡ Fun fact: I’m in the last semester of BS Software Engineering with a CGPA of 3.6 and passionate about building a career in Data Engineering
+I’m currently working on Data Engineering<br> I’m looking to collaborate on data-related projects and real-world data solutions<br> I’m looking for help with advanced data engineering tools and industry best practices<br> I’m currently learning ETL pipelines, data modeling, and modern data technologies<br> Ask me about Data Engineering, SQL, Python, and Software Engineering concepts<br> I’m in the last semester of BS Software Engineering with a CGPA of 3.6 and passionate about building a career in Data Engineering
 
 
 ## 🌐 Socials:
