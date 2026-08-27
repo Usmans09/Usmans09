@@ -1,14 +1,14 @@
-BS Software Engineering Graduate | July 2026<br>
+## BS Software Engineering Graduate | July 2026
 I’m passionate about building a career in Data Engineering while continuously expanding my skills in AI/ML and modern data technologies.
 
-Data Engineering
+## Data Engineering
 I’m focused on Data Engineering, with hands-on internship experience working with real-world data workflows and building efficient, reliable, and scalable data pipelines.<br>
 I’m looking to collaborate on data-related projects, ETL/ELT pipelines, and real-world data solutions.<br>
 I’m continuously improving my expertise in advanced data engineering tools, cloud technologies, and industry best practices.<br>
 I have experience working with Python, SQL, PostgreSQL, ETL/ELT, Data Modeling, Data Warehousing, Apache Airflow, Snowflake, dbt, AWS, and Databricks.<br>
 Ask me about Data Engineering, SQL, Python, ETL/ELT, Data Warehousing, and Software Engineering concepts.
 
-AI/ML
+## AI/ML
 Alongside Data Engineering, I’m building my expertise in AI/ML and exploring practical applications of modern AI technologies.<br>
 Currently working with Machine Learning, Data Preprocessing, Feature Engineering, EDA, Model Evaluation, NLP, LLM APIs, LangChain, LangGraph, and Agentic AI.<br>
 I’m interested in combining Data Engineering and AI/ML to build intelligent, scalable, and data-driven solutions.
