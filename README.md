@@ -1,20 +1,17 @@
-🔹 Data Engineering
+BS Software Engineering Graduate | July 2026<br>
+I’m passionate about building a career in Data Engineering while continuously expanding my skills in AI/ML and modern data technologies.
 
+Data Engineering
 I’m focused on Data Engineering, with hands-on internship experience working with real-world data workflows and building efficient, reliable, and scalable data pipelines.<br>
 I’m looking to collaborate on data-related projects, ETL/ELT pipelines, and real-world data solutions.<br>
 I’m continuously improving my expertise in advanced data engineering tools, cloud technologies, and industry best practices.<br>
 I have experience working with Python, SQL, PostgreSQL, ETL/ELT, Data Modeling, Data Warehousing, Apache Airflow, Snowflake, dbt, AWS, and Databricks.<br>
 Ask me about Data Engineering, SQL, Python, ETL/ELT, Data Warehousing, and Software Engineering concepts.
 
-🔹 AI/ML
-
+AI/ML
 Alongside Data Engineering, I’m building my expertise in AI/ML and exploring practical applications of modern AI technologies.<br>
 Currently working with Machine Learning, Data Preprocessing, Feature Engineering, EDA, Model Evaluation, NLP, LLM APIs, LangChain, LangGraph, and Agentic AI.<br>
 I’m interested in combining Data Engineering and AI/ML to build intelligent, scalable, and data-driven solutions.
-
-🎓 BS Software Engineering Graduate | July 2026<br>
-I’m passionate about building a career in Data Engineering while continuously expanding my skills in AI/ML and modern data technologies.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-usman-haider-140509280) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31348635) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maanimalik015@gmail.com) 
