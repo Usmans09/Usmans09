@@ -1,4 +1,4 @@
-## BS Software Engineering Graduate | July 2026
+## BS Software Engineering Graduate | August 2026
 I’m passionate about building a career in Data Engineering while continuously expanding my skills in AI/ML and modern data technologies.
 
 ## Data Engineering
