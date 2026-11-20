@@ -2,7 +2,7 @@
 I’m passionate about building a career in Data Engineering while continuously expanding my skills in AI/ML and modern data technologies.
 
 
-# Data Engineering | Building Scalable Data Pipelines
+## Data Engineering | Building Scalable Data Pipelines
 
 I'm a passionate **Data Engineer** with hands-on industry experience since 2025, currently working as a **Data Engineering Intern**, gaining practical exposure to real-world data engineering workflows and modern data platforms.
 
