@@ -38,21 +38,6 @@ I'm continuously expanding my technical expertise, exploring modern data enginee
 
 
 
-## My Interests & Goals
-
-I'm passionate about solving real-world data problems, building scalable ETL/ELT architectures, automating data workflows, and developing reliable data platforms.
-
-My goal is to continuously improve my engineering skills, gain deeper production experience, and build data solutions that deliver real business value.
-
-I believe in:
-- Continuous learning and practical implementation.
-- Writing clean, reusable, and maintainable code.
-- Building reliable and scalable data pipelines.
-- Following modern data engineering best practices.
-- Sharing knowledge and collaborating with the developer community.
-
-
-
 ## Let's Connect & Collaborate!
 
 I'm always interested in collaborating on:
