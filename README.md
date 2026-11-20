@@ -1,12 +1,33 @@
 ## BS Software Engineering Graduate | August 2026
 I’m passionate about building a career in Data Engineering while continuously expanding my skills in AI/ML and modern data technologies.
 
-## Data Engineering
-I’m focused on Data Engineering, with hands-on internship experience working with real-world data workflows and building efficient, reliable, and scalable data pipelines.<br>
-I’m looking to collaborate on data-related projects, ETL/ELT pipelines, and real-world data solutions.<br>
-I’m continuously improving my expertise in advanced data engineering tools, cloud technologies, and industry best practices.<br>
-I have experience working with Python, SQL, PostgreSQL, ETL/ELT, Data Modeling, Data Warehousing, Apache Airflow, Snowflake, dbt, AWS, and Databricks.<br>
-Ask me about Data Engineering, SQL, Python, ETL/ELT, Data Warehousing, and Software Engineering concepts.
+ ## Data Engineering | Building Scalable Data Pipelines
+
+I'm a passionate Data Engineer with hands-on industry experience since 2025, currently working as a Data Engineering Intern, gaining practical exposure to real-world data engineering workflows and modern data platforms.
+
+My focus is on designing, developing, and optimizing reliable, scalable, and efficient data pipelines that transform raw data into meaningful, business-ready insights.
+
+Over time, I've been continuously expanding my technical expertise and working with modern data engineering technologies, including:
+
+## Technical Skills & Technologies
+
+Programming & Databases: Python, SQL, PostgreSQL
+Data Engineering: ETL/ELT Pipelines, Data Modeling, Data Warehousing, Incremental Loading, Data Quality
+Workflow Orchestration: Apache Airflow
+Cloud Data Platforms: AWS, Microsoft Azure
+Big Data & Processing: Apache Spark, PySpark, Databricks
+Data Transformation: dbt, Snowflake
+Development & Deployment: Git, GitHub, Docker, CI/CD
+
+## What I'm Currently Working On
+
+Working as a Data Engineering Intern and gaining practical industry experience.
+Deepening my expertise in Databricks, Apache Spark, PySpark, and Delta Lake.
+Exploring advanced dbt concepts, data transformations, testing, and deployment.
+Learning Snowflake architecture, performance optimization, and data warehousing.
+Strengthening my Apache Airflow skills for production-grade workflow orchestration.
+Expanding my knowledge of Azure and AWS cloud data engineering services.
+Preparing to build and implement end-to-end, real-world data engineering projects using modern data platforms.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-usman-haider-140509280) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31348635) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maanimalik015@gmail.com) 
